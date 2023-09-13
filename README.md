@@ -15,7 +15,7 @@ It uses C++, asking the user for inputs and manipulates the numbers by doing som
 This is a standalone application, no installation is required.
 
 1. Download the file
-> https://github.com/ant-cantu/MCG/blob/main/MCG/MCG/bin/Debug/MCG.exe
+> [https://github.com/ant-cantu/MCG/blob/main/MCG/MCG/bin/Debug/MCG.exe](https://github.com/ant-cantu/PayrollCalculator/blob/main/PayrollCalculator.exe)
 
 2. Run the application.
 3. Follow the prompts.
