@@ -8,6 +8,7 @@ It uses C++, asking the user for inputs and manipulates the numbers by doing som
 ## Built With
 
 ![image](https://skillicons.dev/icons?i=cpp,visualstudio)
+[![My Skills](https://skillicons.dev/icons?i=cpp,visualstudio)](https://skillicons.dev)
 
 ## Getting Started
 
