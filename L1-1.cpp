@@ -3,10 +3,10 @@
 //*                                                                     * 
 //* Written by      : Anthony Cantu                                     * 
 //*                                                                     * 
-//* Purpose         : This program takes two numbers and maniulates	    *
-//*					  the numbers several ways. It also takes your		*
-//*				      last name entered and the amount of hours you		*
-//*				      worked and gives you payroll data.				*
+//* Purpose         : This program takes two numbers and maniulates	*
+//*		      the numbers several ways. It also takes your	*
+//*		      last name entered and the amount of hours you	*
+//*		      worked and gives you payroll data.		*
 //*                                                                     * 
 //*---------------------------------------------------------------------* 
 //* Change Log:                                                         * 
@@ -15,7 +15,6 @@
 //* 08/21/23      acantu   000.000.000 Initial release of program       * 
 //*                                                                     * 
 //* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-
 #include <iostream>
 
 using namespace std;
