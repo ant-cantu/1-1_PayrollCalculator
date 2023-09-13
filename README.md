@@ -1,16 +1,13 @@
 # Payroll Calculator
 
-<p align="center">
-<img src="https://github.com/ant-cantu/PayrollCalculator/assets/137722821/26a9080b-2678-45e1-8ab4-577fecb73d52" width="60%" height="40%"></img>
-</p>
-
 ## About Payroll Calculator
 
-This is a simple project I made for one of my computer programming lab assignments.
+This is a simple project I made for my computer programming class.
+It uses C++, asking the user for inputs and manipulates the numbers by doing some simple math.
 
 ## Built With
 
-![image](https://skillicons.dev/icons?i=c++,visualstudio)
+![image](https://skillicons.dev/icons?i=cpp,visualstudio)
 
 ## Getting Started
 
@@ -26,8 +23,8 @@ This is a standalone application, no installation is required.
 ## Usage
 
 This program takes two numbers and maniulates the numbers several ways. 
-It also takes your last name entered and the amount of hours you	worked and gives you payroll data.
+It also takes your last name entered and the amount of hours you worked and gives you payroll data.
 
 <p align="center">
-<img src="https://github.com/ant-cantu/MCG/assets/137722821/094d641d-ee33-4cdf-8662-3037f1129991" width="60%" height="40%"></img>
+<img src="https://github.com/ant-cantu/PayrollCalculator/assets/137722821/26a9080b-2678-45e1-8ab4-577fecb73d52" width="70%" height="50%"></img>
 </p>
