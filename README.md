@@ -3,12 +3,15 @@
 ## About Payroll Calculator
 
 This is a simple project I made for my computer programming class.
+This was the first project in my course and is very simple. 
 It uses C++, asking the user for inputs and manipulates the numbers by doing some simple math.
 
 ## Built With
 
 [![image](https://skillicons.dev/icons?i=cpp,visualstudio)](https://skillicons.dev)
 
+## Source Code
+> [Source Code](https://github.com/ant-cantu/PayrollCalculator/blob/main/PayrollCalculator.cpp)
 
 ## Getting Started
 
