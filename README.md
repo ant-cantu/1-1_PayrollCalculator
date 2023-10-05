@@ -18,7 +18,7 @@ It uses C++, asking the user for inputs and manipulates the numbers by doing som
 This is a standalone application, no installation is required.
 
 1. Download the file
-> https://github.com/ant-cantu/PayrollCalculator/blob/main/PayrollCalculator.exe
+> [Click to Download](https://github.com/ant-cantu/PayrollCalculator/blob/main/PayrollCalculator.exe)
 
 2. Run the application.
 3. Follow the prompts.
@@ -30,5 +30,5 @@ This program takes two numbers and maniulates the numbers several ways.
 It also takes your last name entered and the amount of hours you worked and gives you payroll data.
 
 <p align="center">
-<img src="https://github.com/ant-cantu/PayrollCalculator/assets/137722821/26a9080b-2678-45e1-8ab4-577fecb73d52" width="70%" height="50%"></img>
+<img src="https://github.com/ant-cantu/PayrollCalculator/assets/137722821/f84dca80-944f-49ad-b5d8-ce0e0b0f0b62" width="70%" height="50%"></img>
 </p>
